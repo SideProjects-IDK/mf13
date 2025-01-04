@@ -1,0 +1,14 @@
+C:\Users\Hamza\Desktop\mf13\mf13\bin\Debug\net8.0\mf13.exe
+C:\Users\Hamza\Desktop\mf13\mf13\bin\Debug\net8.0\mf13.deps.json
+C:\Users\Hamza\Desktop\mf13\mf13\bin\Debug\net8.0\mf13.runtimeconfig.json
+C:\Users\Hamza\Desktop\mf13\mf13\bin\Debug\net8.0\mf13.dll
+C:\Users\Hamza\Desktop\mf13\mf13\bin\Debug\net8.0\mf13.pdb
+C:\Users\Hamza\Desktop\mf13\mf13\obj\Debug\net8.0\mf13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\Desktop\mf13\mf13\obj\Debug\net8.0\mf13.AssemblyInfoInputs.cache
+C:\Users\Hamza\Desktop\mf13\mf13\obj\Debug\net8.0\mf13.AssemblyInfo.cs
+C:\Users\Hamza\Desktop\mf13\mf13\obj\Debug\net8.0\mf13.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\mf13\mf13\obj\Debug\net8.0\mf13.dll
+C:\Users\Hamza\Desktop\mf13\mf13\obj\Debug\net8.0\refint\mf13.dll
+C:\Users\Hamza\Desktop\mf13\mf13\obj\Debug\net8.0\mf13.pdb
+C:\Users\Hamza\Desktop\mf13\mf13\obj\Debug\net8.0\mf13.genruntimeconfig.cache
+C:\Users\Hamza\Desktop\mf13\mf13\obj\Debug\net8.0\ref\mf13.dll
